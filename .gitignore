@@ -1,3 +1,9 @@
+# Project specific
+indexed_dirs.txt
+indexed_files.txt
+settings.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
